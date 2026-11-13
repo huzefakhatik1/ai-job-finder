@@ -1,0 +1,6 @@
+{
+  "name": "AI Job Finder",
+  "description": "Personal AI-powered job search assistant for India tech roles featuring resume analysis, job discovery, weighted compatibility scoring, AI interview prep, and automated scheduled tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

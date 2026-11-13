@@ -1,0 +1,4166 @@
+{
+  "users": [
+    {
+      "id": "usr_huzefa_01",
+      "email": "huzefakhatik8586@gmail.com",
+      "name": "Huzefa Khatik",
+      "role": "CANDIDATE",
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ],
+  "candidateProfiles": [
+    {
+      "id": "prof_huzefa_01",
+      "userId": "usr_huzefa_01",
+      "fullName": "Huzefa Khatik",
+      "email": "huzefakhatik8586@gmail.com",
+      "phone": "+91 7020628183",
+      "currentTitle": "Full Stack .NET & Angular Developer",
+      "experienceYears": 2,
+      "currentCtcLpa": 2,
+      "expectedCtcLpa": 5,
+      "noticePeriodDays": 30,
+      "preferredCountry": "India",
+      "bio": "Enthusiastic Full Stack Engineer with 2 years of hands-on experience designing and delivering scalable web applications using Angular, TypeScript, C#, ASP.NET Core Web API, and Microsoft SQL Server.",
+      "summary": "Specialized in building modern single-page applications with Angular and high-throughput REST APIs with .NET Core. Looking for growth opportunities across Maharashtra (Pune, Mumbai, Nashik, Jalgaon) or high-impact Remote roles.",
+      "updatedAt": "2026-11-12T17:54:16.553Z"
+    }
+  ],
+  "candidateSkills": [
+    {
+      "id": "csk_1",
+      "profileId": "prof_huzefa_01",
+      "skillName": "Angular",
+      "category": "Frontend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_2",
+      "profileId": "prof_huzefa_01",
+      "skillName": "TypeScript",
+      "category": "Frontend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_3",
+      "profileId": "prof_huzefa_01",
+      "skillName": "JavaScript",
+      "category": "Frontend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_4",
+      "profileId": "prof_huzefa_01",
+      "skillName": "C#",
+      "category": "Backend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_5",
+      "profileId": "prof_huzefa_01",
+      "skillName": ".NET Web API",
+      "category": "Backend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_6",
+      "profileId": "prof_huzefa_01",
+      "skillName": "SQL Server",
+      "category": "Database",
+      "proficiencyLevel": "Intermediate",
+      "yearsOfExperience": 2,
+      "isPrimary": true
+    },
+    {
+      "id": "csk_7",
+      "profileId": "prof_huzefa_01",
+      "skillName": "Entity Framework Core",
+      "category": "Backend",
+      "proficiencyLevel": "Intermediate",
+      "yearsOfExperience": 1.5,
+      "isPrimary": false
+    },
+    {
+      "id": "csk_8",
+      "profileId": "prof_huzefa_01",
+      "skillName": "HTML5/CSS3",
+      "category": "Frontend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": false
+    },
+    {
+      "id": "csk_9",
+      "profileId": "prof_huzefa_01",
+      "skillName": "Git & GitHub",
+      "category": "Tools & Other",
+      "proficiencyLevel": "Intermediate",
+      "yearsOfExperience": 2,
+      "isPrimary": false
+    },
+    {
+      "id": "csk_10",
+      "profileId": "prof_huzefa_01",
+      "skillName": "RESTful Architecture",
+      "category": "Backend",
+      "proficiencyLevel": "Advanced",
+      "yearsOfExperience": 2,
+      "isPrimary": false
+    }
+  ],
+  "jobPreferences": [
+    {
+      "id": "pref_1",
+      "profileId": "prof_huzefa_01",
+      "targetRoles": [
+        "Angular Developer",
+        ".NET Developer",
+        "Full Stack Developer",
+        "Software Engineer",
+        ".NET Core Developer"
+      ],
+      "preferredLocations": [
+        "Jalgaon",
+        "Pune",
+        "Mumbai",
+        "Nashik",
+        "Remote"
+      ],
+      "openToRemote": true,
+      "minSalaryLpa": 3.5,
+      "maxSalaryLpa": 7,
+      "jobTypes": [
+        "Full-Time",
+        "Remote",
+        "Hybrid"
+      ],
+      "industryPreferences": [
+        "Information Technology",
+        "FinTech",
+        "Enterprise SaaS",
+        "Software Product"
+      ]
+    }
+  ],
+  "resumes": [
+    {
+      "id": "res_primary_01",
+      "profileId": "prof_huzefa_01",
+      "fileName": "Huzefa_Khatik_Resume_DotNet_Angular.pdf",
+      "fileSize": 142800,
+      "fileType": "application/pdf",
+      "rawText": "HUZEFA KHATIK\nEmail: huzefakhatik8586@gmail.com | Phone: +91 98234 56789 | Location: Jalgaon / Pune, India\nLinkedIn: linkedin.com/in/huzefa-khatik | Portfolio: github.com/huzefa-khatik\n\nPROFESSIONAL SUMMARY\nFull Stack Software Developer with 2.0 years of experience in architecting and delivering responsive, testable web applications. Adept in Angular (v14-v18), TypeScript, C#, ASP.NET Core Web API, Entity Framework, and SQL Server. Proven track record of boosting API throughput by 35% and building modular component libraries.\n\nCORE COMPETENCIES & TECHNICAL SKILLS\n• Frontend: Angular 14+, TypeScript, RxJS, HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript (ES6+)\n• Backend: C#, .NET 6/8, ASP.NET Core Web API, LINQ, Entity Framework Core, Microservices patterns\n• Database: Microsoft SQL Server, Stored Procedures, Indexing, T-SQL, Query Optimization\n• Version Control & Tools: Git, GitHub, Postman, Visual Studio 2022, VS Code, Swagger, IIS\n• Concepts: REST APIs, JWT Authentication, Clean Architecture, Dependency Injection, Agile/Scrum\n\nWORK EXPERIENCE\nFull Stack Developer | TechSolutions Pvt Ltd (Pune, India)\nJune 2024 - Present (2 Years Total)\n• Designed and maintained 15+ Angular components with reactive forms and custom state services.\n• Built secure, RESTful ASP.NET Core micro-APIs integrating SQL Server databases for banking clients.\n• Refactored legacy SQL queries, reducing API latency from 450ms to 120ms.\n• Collaborated in bi-weekly sprints, participating in code reviews, automated CI/CD deployments, and unit tests.\n\nEDUCATION\nBachelor of Engineering (B.E.) in Computer Engineering\nNorth Maharashtra University, Jalgaon | Graduated: 2024",
+      "isPrimary": true,
+      "parsedAt": "2026-02-15T10:30:00.000Z",
+      "createdAt": "2026-02-15T10:30:00.000Z",
+      "extractedData": {
+        "candidateName": "Huzefa Khatik",
+        "email": "huzefakhatik8586@gmail.com",
+        "phone": "+91 98234 56789",
+        "totalExperienceYears": 2,
+        "skillsFound": [
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core",
+          "HTML5/CSS3",
+          "Git",
+          "RESTful Architecture",
+          "RxJS",
+          "LINQ"
+        ],
+        "primaryRoles": [
+          "Angular Developer",
+          ".NET Developer",
+          "Full Stack Developer"
+        ],
+        "experienceItems": [
+          {
+            "role": "Full Stack Developer",
+            "company": "TechSolutions Pvt Ltd (Pune, India)",
+            "duration": "2024 - Present (2 Years)",
+            "highlights": [
+              "Designed and maintained 15+ Angular components with reactive forms",
+              "Built secure RESTful ASP.NET Core micro-APIs with SQL Server",
+              "Refactored legacy SQL queries, reducing latency by 70%"
+            ]
+          }
+        ],
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in Computer Engineering",
+            "institution": "North Maharashtra University, Jalgaon",
+            "year": "2024"
+          }
+        ]
+      }
+    }
+  ],
+  "jobSources": [
+    {
+      "id": "src_adzuna",
+      "name": "Adzuna India API",
+      "type": "api",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Live job feed covering tech roles across Pune, Mumbai, Bangalore, and Remote India with salary indices.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 3
+    },
+    {
+      "id": "src_jooble",
+      "name": "Jooble Job Aggregator",
+      "type": "api",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Aggregates listings from corporate career portals across Maharashtra, Nashik, Jalgaon, and remote hubs.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 3
+    },
+    {
+      "id": "src_direct_board",
+      "name": "Direct Indian Tech Careers Feed",
+      "type": "verified_board",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Verified direct listings from top tier product and IT services companies hiring .NET and Angular talent.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 6
+    },
+    {
+      "id": "src_gemini_live",
+      "name": "Gemini AI Live Market Discovery",
+      "type": "api",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Live provider feeding active tech roles into AI Job Finder engine.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 12
+    },
+    {
+      "id": "src_arbeitnow",
+      "name": "Arbeitnow Live Developer Feed",
+      "type": "api",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Live provider feeding active tech roles into AI Job Finder engine.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 16
+    },
+    {
+      "id": "src_jobicy",
+      "name": "Jobicy Global Remote Feed",
+      "type": "api",
+      "status": "active",
+      "apiKeyConfigured": true,
+      "description": "Live provider feeding active tech roles into AI Job Finder engine.",
+      "lastSyncAt": "2026-11-12T18:45:29.594Z",
+      "jobsFoundCount": 8
+    }
+  ],
+  "jobs": [
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "tcs_jalgaon_006",
+      "title": "System Engineer - .NET",
+      "company": "TCS",
+      "location": "Jalgaon, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 4.5,
+      "maxSalaryLpa": 7,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "TCS is hiring for our Jalgaon delivery center. You will work on .NET Web API development and integration projects for our diverse enterprise client base.",
+      "requirementsSummary": [
+        "B.Tech/MCA preferred",
+        "Working knowledge of C#/.NET",
+        "Good analytical capability"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "HTML5"
+      ],
+      "applyUrl": "https://ibegin.tcs.com/iBegin/jobs/details/TCS-Jalgaon-DotNet",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_d7cbk"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "zensar_pune_005",
+      "title": "Software Engineer (Angular)",
+      "company": "Zensar Technologies",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 3.5,
+      "minSalaryLpa": 6.5,
+      "maxSalaryLpa": 9.5,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Join our digital solutions team to work on customer-centric web applications. The role involves transforming design prototypes into functional Angular interfaces.",
+      "requirementsSummary": [
+        "Hands-on Angular 12+",
+        "Strong TypeScript skills",
+        "Agile methodology experience"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "CSS3",
+        "Git"
+      ],
+      "applyUrl": "https://www.zensar.com/careers/software-engineer-pune",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_o9az7"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "datamatics_nashik_004",
+      "title": ".NET Developer",
+      "company": "Datamatics",
+      "location": "Nashik, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 3,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 7.5,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Responsible for maintaining and enhancing legacy and modern .NET applications. You will be working with a localized team in Nashik to support industrial software clients.",
+      "requirementsSummary": [
+        "Strong C# fundamentals",
+        "Experience in debugging existing codebases",
+        "Effective communication skills"
+      ],
+      "skillsRequired": [
+        "C#",
+        "JavaScript",
+        "SQL Server",
+        "GitHub"
+      ],
+      "applyUrl": "https://www.datamatics.com/careers/net-developer-nashik",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_76q61"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "cybage_remote_003",
+      "title": "Full Stack Developer (.NET + Angular)",
+      "company": "Cybage Software",
+      "location": "Remote",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 3,
+      "minSalaryLpa": 8,
+      "maxSalaryLpa": 12,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "This remote role focuses on building end-to-end features for SaaS platforms. Candidates should be comfortable working across the entire tech stack from database to frontend.",
+      "requirementsSummary": [
+        "Full-stack development proficiency",
+        "Deep knowledge of EF Core",
+        "Experience in remote collaborative environments"
+      ],
+      "skillsRequired": [
+        "Angular",
+        ".NET Web API",
+        "Entity Framework Core",
+        "SQL Server"
+      ],
+      "applyUrl": "https://www.cybage.com/careers/full-stack-developer-remote",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_zxygv"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "neosoft_mumbai_002",
+      "title": "Angular Developer",
+      "company": "NeoSOFT",
+      "location": "Mumbai, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "We are seeking an Angular developer to design modern web interfaces. The role involves building reusable components and collaborating with cross-functional teams in our Mumbai office.",
+      "requirementsSummary": [
+        "Strong hands-on experience in Angular",
+        "Responsive design proficiency",
+        "Version control expertise"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "HTML5",
+        "Git"
+      ],
+      "applyUrl": "https://www.neosofttech.com/careers/angular-developer-mumbai",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_jn3m9"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "persistent_pune_001",
+      "title": "Software Engineer - .NET Core",
+      "company": "Persistent Systems",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 3.5,
+      "minSalaryLpa": 7.5,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Join the engineering team to build scalable enterprise solutions. You will work on C# and .NET Core to deliver high-performance microservices for global healthcare clients.",
+      "requirementsSummary": [
+        "Proven expertise in C# development",
+        "Experience with microservices architecture",
+        "Strong understanding of SQL Server design"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Core",
+        "SQL Server",
+        "RESTful Architecture"
+      ],
+      "applyUrl": "https://careers.persistent.com/job/Pune-Software-Engineer/10542345/",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:45:01.702Z",
+      "expiresAt": "2026-12-12T18:45:01.702Z",
+      "lastSeenAt": "2026-11-12T18:45:29.566Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794509129566_5evqg"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "LTIM-PUNE-ANG-883",
+      "title": "Software Engineer - .NET & Angular",
+      "company": "LTIMindtree",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 9.5,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Contribute to enterprise modernization projects by developing scalable web applications. Write clean Angular components and build robust microservices using C# and .NET Core.",
+      "requirementsSummary": [
+        "Hands-on experience in full-stack development with Angular and .NET",
+        "Strong understanding of Entity Framework Core and SQL Server data modeling",
+        "Excellent debugging and analytical skills"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core"
+      ],
+      "applyUrl": "https://www.ltimindtree.com/careers/software-engineer-angular-dotnet-pune",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.710Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820710_hs5jb"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "ACCION-PUNE-ANG-104",
+      "title": "Frontend Engineer - Angular",
+      "company": "Accion Labs",
+      "location": "Pune, Maharashtra",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 7,
+      "maxSalaryLpa": 11,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Join our agile engineering team in building cutting-edge SaaS products. Focus heavily on modern Angular architecture, state management, and optimized RESTful integrations.",
+      "requirementsSummary": [
+        "2+ years specializing in Angular framework development",
+        "Deep expertise in TypeScript, HTML5, and advanced CSS3",
+        "Familiarity with CI/CD pipelines and Git workflow"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "HTML5/CSS3",
+        "RESTful Architecture",
+        "Git & GitHub"
+      ],
+      "applyUrl": "https://www.accionlabs.com/careers/frontend-engineer-angular-pune",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.710Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820710_np12j"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "ZENSAR-PUNE-ANG-512",
+      "title": "Full Stack Angular Developer",
+      "company": "Zensar Technologies",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Design and implement dynamic web applications for multinational enterprise clients. Handle both client-side development in Angular and server-side logic using .NET Web API and SQL Server.",
+      "requirementsSummary": [
+        "Experience building responsive single-page applications using Angular",
+        "Strong backend integration skills using C# and .NET Web API",
+        "Proficient in database design and queries using SQL Server"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core"
+      ],
+      "applyUrl": "https://www.zensar.com/careers/job-listings/angular-developer-pune",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.710Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820710_5qudd"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "NEOSOFT-PUNE-ANG-772",
+      "title": "Software Engineer - Angular & .NET",
+      "company": "NeoSOFT",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 8.5,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Work closely with product managers and backend developers to build end-to-end enterprise features. Responsible for writing clean, testable code using Angular and C# backend services.",
+      "requirementsSummary": [
+        "Minimum 2 years of professional software development experience",
+        "Demonstrated expertise in Angular, TypeScript, and C# .NET",
+        "Good knowledge of Git, GitHub, and version control best practices"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "Git & GitHub"
+      ],
+      "applyUrl": "https://www.neosofttech.com/careers/software-engineer-angular-pune",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.710Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820710_r6l7k"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "CYBAGE-PUNE-ANG-409",
+      "title": "UI / Angular Developer",
+      "company": "Cybage Software",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 3.5,
+      "minSalaryLpa": 5.5,
+      "maxSalaryLpa": 8,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Build responsive and scalable user interfaces leveraging Angular and modern JavaScript standards. Integrate frontend components with robust RESTful APIs built on .NET architecture.",
+      "requirementsSummary": [
+        "Solid understanding of Angular framework concepts and lifecycle hooks",
+        "Hands-on experience consuming RESTful APIs",
+        "Familiarity with Entity Framework Core and relational databases"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "JavaScript",
+        "TypeScript",
+        "RESTful Architecture",
+        "HTML5/CSS3"
+      ],
+      "applyUrl": "https://www.cybage.com/careers/angular-developer-pune-job-opening",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.709Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820709_szo5d"
+    },
+    {
+      "sourceId": "src_gemini_live",
+      "externalId": "PERSISTENT-PUNE-ANG-021",
+      "title": "Angular Developer - Full Stack",
+      "company": "Persistent Systems",
+      "location": "Pune, Maharashtra",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 6.5,
+      "maxSalaryLpa": 9.5,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Develop and maintain enterprise-grade web applications using Angular, TypeScript, and .NET Core. Collaborate with cross-functional teams in Pune to deliver high-performance solutions for global clients.",
+      "requirementsSummary": [
+        "2+ years of hands-on experience in Angular and C# .NET Web API",
+        "Strong proficiency in TypeScript, JavaScript, HTML5, and CSS3",
+        "Experience with SQL Server and Entity Framework Core"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Git"
+      ],
+      "applyUrl": "https://careers.persistent.com/job/pune-angular-developer/18423",
+      "sourceName": "Gemini AI Live Market Discovery",
+      "postedAt": "2026-11-12T18:40:05.956Z",
+      "expiresAt": "2026-12-12T18:40:05.956Z",
+      "lastSeenAt": "2026-11-12T18:40:20.709Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794508820709_odj9g"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161624",
+      "title": "Senior Platform Engineer",
+      "company": "Caylent",
+      "location": "Remote (Mexico)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to h",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161624-senior-platform-engineer-8",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:24:58.000Z",
+      "expiresAt": "2026-12-12T17:52:49.996Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_eipyl"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161625",
+      "title": "Lead DevOps Engineer",
+      "company": "Particle41",
+      "location": "Remote (USA)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Lead DevOps Engineer As a Lead DevOps Engineer at Particle41 , you will own the DevOps strategy and the design, automation, and operation of the cloud infrastructure that powers our clients’ most complex digital projects. Working closely with cross-functional teams, you will champion DevOps culture and practices, set t",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161625-lead-devops-engineer",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:25:25.000Z",
+      "expiresAt": "2026-12-12T17:52:49.995Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_pa1lz"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161629",
+      "title": "Senior QA Engineer",
+      "company": "Caylent",
+      "location": "Remote (Mexico)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Caylent is an AI-first cloud services company that helps organizations turn ambitious ideas into meaningful business impact. As an AWS Premier Tier Services Partner and a charter member of Anthropic’s Claude Partner Network, we combine deep expertise in AWS, artificial intelligence, and Anthropic’s Claude platform to h",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161629-senior-qa-engineer-4",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:25:53.000Z",
+      "expiresAt": "2026-12-12T17:52:49.995Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_9805j"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161630",
+      "title": "Lead Software Solutions Architect",
+      "company": "Particle41",
+      "location": "Remote (USA)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Lead Architect As a Lead Software and Cloud Architect at Particle41 , you will drive the design and development of our cloud-native solutions. You will be asked to use your expertise in s, and AWS technologies to craft robust and scalable architectures that meet the evolving needs of our clients. Working closely with c",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161630-lead-software-solutions-architect",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:25:55.000Z",
+      "expiresAt": "2026-12-12T17:52:49.992Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_7c3tk"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161641",
+      "title": "Staff Software Engineer (L4)",
+      "company": "Twilio",
+      "location": "Remote (Ireland)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Who we are At Twilio , we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to hundreds of thousands of businesses and empower millions of developers worldwide to craft personalized customer experiences. Our dedication to remote-first work , and strong culture o",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161641-staff-software-engineer-l4",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:29:01.000Z",
+      "expiresAt": "2026-12-12T17:52:49.992Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_ddner"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_161642",
+      "title": "Forward Deployed Engineer",
+      "company": "Nearform",
+      "location": "Remote (Italy)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "This is a full-time, permanent opportunity for candidates based in Italy. This position also requires frequent travel to client sites within Europe , with travel expenses covered by the company . About Nearform Nearform is an independent team of data &amp; AI experts, engineers, and designers who build intelligent digi",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/161642-forward-deployed-engineer-10",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-12T13:29:03.000Z",
+      "expiresAt": "2026-12-12T17:52:49.991Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_xtfig"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_lead-fullstackenwticklerin-pforzheim-285583",
+      "title": "Lead Fullstackenwtickler:in",
+      "company": "NXT Hero GmbH",
+      "location": "Pforzheim",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "In einem agilen Entwicklerteam wird ein digitales Planungstool weiterentwickelt, das Termine und Abläufe im Gesundheitswesen steuert. Die Plattform spart Zeit, reduziert Abstimmungen und sorgt dafür, dass Menschen schneller und besser versorgt werden. Gesucht wird ein erfahrener Senior Softwareentwickler:in , der Softw",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/nxt-hero-gmbh/lead-fullstackenwticklerin-pforzheim-285583",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T13:31:17.000Z",
+      "expiresAt": "2026-12-12T17:52:51.297Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_7jzbf"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_senior-software-engineer-abap-munich-117677",
+      "title": "Senior Software Engineer* ABAP",
+      "company": "Concircle Österreich GmbH",
+      "location": "Munich",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "concircle gestaltet die digitale Zukunft der Industrie – mit intelligenter Technologie, smartem Prozessverständnis und einem unschlagbaren Teamspirit. Als führendes IT-Beratungshaus im Bereich Digital Supply Chain setzen über 100 Kolleg*innen in AT, SK, CH und DE gemeinsam innovative Lösungen für namhafte Industrieunte",
+      "requirementsSummary": [
+        "Experience with SAP/ERP Consulting",
+        "Experience with Development"
+      ],
+      "skillsRequired": [
+        "SAP/ERP Consulting",
+        "Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/concircle-osterreich-gmbh/senior-software-engineer-abap-munich-117677",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T14:01:00.000Z",
+      "expiresAt": "2026-12-12T17:52:51.297Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_b5olo"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_chief-of-staff-virtual-assembly-line-hamburg-220360",
+      "title": "Chief of Staff - Virtual Assembly Line (m/f/d)",
+      "company": "1KOMMA5˚",
+      "location": "Hamburg",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "1KOMMA5° At 1KOMMA5° , we pursue a clear vision: Living on wind and sunlight forever for free . To make this a reality, we are building the energy system of the future with Heartbeat AI. Want to be part of it? We bring together regional craftsmanship and scalable software: We don't think of solar, batteries, heat pumps",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/1komma50/chief-of-staff-virtual-assembly-line-hamburg-220360",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T14:31:15.000Z",
+      "expiresAt": "2026-12-12T17:52:51.297Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_8inkk"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_full-stack-softwareentwickler-pirmasens-14007",
+      "title": "Full Stack Softwareentwickler (m/w/d)",
+      "company": "Krämer Anwendungssysteme GmbH & Co. KG",
+      "location": "Pirmasens",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Zur langfristigen Verstärkung unseres Teams suchen wir schnellstmöglich einen hochmotivierten und zuverlässigen Full Stack Softwareentwickler (m/w/d) für die Entwicklung von Softwarelösungen auf Basis von SAP Business One. Freude im Umgang mit neuesten IT-Technologien ist Dir ebenso wichtig wie die Bereitschaft Verantw",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/kramer-anwendungssysteme-gmbh-co-kg/full-stack-softwareentwickler-pirmasens-14007",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T15:01:29.000Z",
+      "expiresAt": "2026-12-12T17:52:51.296Z",
+      "lastSeenAt": "2026-11-12T17:52:53.606Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973606_t95q6"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_project-manager-sustainability-operations-all-genders-berlin-38769",
+      "title": "Project Manager – Sustainability & Operations (all genders)",
+      "company": "mammaly",
+      "location": "Berlin",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Deine Aufgaben mammaly ist eine zertifizierte B Corp. Nachhaltigkeit ist bei uns kein Nebenthema, sondern gehört zu unserem Selbstverständnis. Du verantwortest unser ESG-Management von der B-Corp-Zertifizierung bis zur CO₂-Bilanz. Außerdem arbeitest du direkt unserem COO zu und treibst die Weiterentwicklung seiner Bere",
+      "requirementsSummary": [
+        "Experience with Power Engineering and Environmental Engineering"
+      ],
+      "skillsRequired": [
+        "Power Engineering and Environmental Engineering"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/mammaly/project-manager-sustainability-operations-all-genders-berlin-38769",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T15:31:19.000Z",
+      "expiresAt": "2026-12-12T17:52:51.296Z",
+      "lastSeenAt": "2026-11-12T17:52:53.605Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973605_9flrc"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_devops-engineer-mannheim-453959",
+      "title": "DevOps Engineer (m/w/d)",
+      "company": "Acceleraid",
+      "location": "Mannheim",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Infrastruktur auf diesem Niveau ist kein Verwalten von Systemen, sondern das Automatisieren von Sicherheit, Stabilität und Skalierung – genau darin liegt deine Stärke Deine Aufgaben Unsere Cloud-Infrastruktur mit aktuellen DevOps-Tools weiterentwickeln, insbesondere mit Kubernetes, Terraform und Ansible Unsere Anwendun",
+      "requirementsSummary": [
+        "Experience with System and Network Administration"
+      ],
+      "skillsRequired": [
+        "System and Network Administration"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/acceleraid/devops-engineer-mannheim-453959",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T16:01:04.000Z",
+      "expiresAt": "2026-12-12T17:52:51.296Z",
+      "lastSeenAt": "2026-11-12T17:52:53.605Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973605_5r6l4"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_senior-product-marketing-manager-koln-269617",
+      "title": "Senior Product Marketing Manager (m/w/d)",
+      "company": "epilot GmbH",
+      "location": "Köln",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Die Energiewirtschaft steckt mitten in der größten Transition ihrer Geschichte. Energieversorger, Netzbetreiber und Lösungsanbieter brauchen Software, die da mithält, und sie brauchen jemanden, der ihnen klar und glaubwürdig erklärt, warum epilot genau die richtige Plattform ist. Als Senior Product Marketing Manager bi",
+      "requirementsSummary": [
+        "Experience with Internet and software",
+        "Experience with professional"
+      ],
+      "skillsRequired": [
+        "Internet and software",
+        "professional"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/epilot-gmbh/senior-product-marketing-manager-koln-269617",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T16:20:11.000Z",
+      "expiresAt": "2026-12-12T17:52:51.296Z",
+      "lastSeenAt": "2026-11-12T17:52:53.605Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973605_tiyp5"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_vertriebsmitarbeiter-im-aussendienst-berlin-217259",
+      "title": "Vertriebsmitarbeiter im Außendienst (m/w/d)",
+      "company": "Berndt Mobilitätsprodukte GmbH",
+      "location": "Berlin",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Wir suchen Dich! Wir, die Berndt Mobilitätsprodukte GmbH, gehören zu den führenden unabhängigen Anbietern von Liftsystemen in den östlichen Bundesländern. Seit über 20 Jahren sorgen wir mit individuellen Mobilitätslösungen für mehr Barrierefreiheit und Lebensqualität. Mit über 80 Mitarbeitenden im Innen- und Außendiens",
+      "requirementsSummary": [
+        "Experience with Sales Engineer"
+      ],
+      "skillsRequired": [
+        "Sales Engineer"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/berndt-mobilitatsprodukte-gmbh/vertriebsmitarbeiter-im-aussendienst-berlin-217259",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-12T16:31:00.000Z",
+      "expiresAt": "2026-12-12T17:52:51.296Z",
+      "lastSeenAt": "2026-11-12T17:52:53.605Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794505973605_jq3hk"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_160030",
+      "title": "Security Engineer, Offensive Security",
+      "company": "Liftoff",
+      "location": "Remote (USA)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Liftoff is a leading AI-powered performance marketing platform for the mobile app economy. Our end-to-end technology stack helps app marketers acquire and retain high-value users, while enabling publishers to maximize revenue across programmatic and direct demand. Liftoff’s solutions, including Accelerate, Direct, Mone",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/160030-security-engineer-offensive-security",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-09T09:37:48.000Z",
+      "expiresAt": "2026-12-09T18:29:55.780Z",
+      "lastSeenAt": "2026-11-09T18:29:56.815Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996815_7zl3p"
+    },
+    {
+      "sourceId": "src_jobicy",
+      "externalId": "jbc_160038",
+      "title": "Manager, Customer Support Engineering",
+      "company": "Fivetran",
+      "location": "Remote (Australia)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4.5,
+      "minSalaryLpa": 6,
+      "maxSalaryLpa": 10.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "From Fivetran ’s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We’re proud that more organizations continue to lever",
+      "requirementsSummary": [
+        "Hands-on web engineering background",
+        "Proficiency in frontend and REST API development",
+        "Independent remote collaboration"
+      ],
+      "skillsRequired": [
+        "TypeScript",
+        "JavaScript",
+        "REST APIs",
+        "Full Stack",
+        "Git"
+      ],
+      "applyUrl": "https://jobicy.com/jobs/160038-manager-customer-support-engineering-2",
+      "sourceName": "Jobicy Global Remote Feed",
+      "postedAt": "2026-11-09T12:42:22.000Z",
+      "expiresAt": "2026-12-09T18:29:55.780Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_ybk7u"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_senior-software-developer-fullstack-java-angular-nuremberg-257473",
+      "title": "Senior Software Developer – Fullstack Java & Angular (m/w/d)",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Deine Rolle Als Senior Software Developer bist Du bei isento ein erfahrenes und verlässliches Teammitglied in unseren Projekten. Du bist Vollblutentwickler und begleitest den gesamten Entwicklungsprozess: von der ersten Idee über die Umsetzung und das Testen bis hin zum Deployment und Monitoring. Bei uns gibt es keine ",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/senior-software-developer-fullstack-java-angular-nuremberg-257473",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T16:31:08.000Z",
+      "expiresAt": "2026-12-09T18:29:56.814Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_f6njf"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_fullstack-software-developer-java-angular-nuremberg-141448",
+      "title": "Fullstack Software Developer (m/w/d) – Java, Angular",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Deine Rolle Du möchtest Software ganzheitlich entwickeln und das Zusammenspiel aus modernem Frontend und stabiler Backend-Architektur aktiv prägen? Dann bist Du bei isento genau richtig. Als Fullstack Developer verbindest Du interaktive Benutzeroberflächen in Angular und TypeScript mit performanten Services in Java und",
+      "requirementsSummary": [
+        "Experience with Web Development"
+      ],
+      "skillsRequired": [
+        "Web Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/fullstack-software-developer-java-angular-nuremberg-141448",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T16:31:08.000Z",
+      "expiresAt": "2026-12-09T18:29:56.814Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_fmqop"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_software-developer-schwerpunkt-angular-nuremberg-300148",
+      "title": "Software Developer (m/w/d) - Schwerpunkt Angular",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Deine Rolle Komplexe Prozesse so in ein Frontend zu gießen, dass die Bedienung fast schon intuitiv Spaß macht – genau darum geht es bei uns. Als Software Developer mit Schwerpunkt Angular bist Du die treibende Kraft dafür, dass unsere Webanwendungen nicht nur technisch sauber ticken, sondern auch im Alltag durch Geschw",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-schwerpunkt-angular-nuremberg-300148",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T16:31:08.000Z",
+      "expiresAt": "2026-12-09T18:29:56.814Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_snj2i"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_software-developer-fokus-secure-software-development-nuremberg-122160",
+      "title": "Software Developer - Fokus Secure Software Development (m/w/d)",
+      "company": "isento GmbH",
+      "location": "Nuremberg",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Deine Rolle Sicherheit ist für uns bei isento ein fester Bestandteil exzellenter Software-Architektur: Wir entwickeln geschäftskritische Web- und Cloudanwendungen, die im Alltag zuverlässig funktionieren und von Grund auf geschützt sind. Als Software Developer mit Fokus Secure Software Development entwickelst Du in uns",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/isento-gmbh/software-developer-fokus-secure-software-development-nuremberg-122160",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T16:31:08.000Z",
+      "expiresAt": "2026-12-09T18:29:56.814Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_2oir3"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_sales-managerin-vertrieb-fur-software-im-sozialen-bereich-cologne-204092",
+      "title": "Sales Manager:in / Vertrieb für Software im sozialen Bereich (m/w/d)",
+      "company": "BEWO-Online Software GmbH",
+      "location": "Cologne",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Bist du bereit als Sales Manager:in / Vertrieb für Software im sozialen Bereich (m/w/d) unser Team bei BEWO-Online Software GmbH in Köln zu verstärken? Wir sind ein kleines, dynamisches Team, das sich leidenschaftlich für die Unterstützung sozialer Einrichtungen durch unsere innovative Cloud-Software einsetzt. Mit unse",
+      "requirementsSummary": [
+        "Experience with Management",
+        "Experience with Team Leader"
+      ],
+      "skillsRequired": [
+        "Management",
+        "Team Leader"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/bewo-online-software-gmbh/sales-managerin-vertrieb-fur-software-im-sozialen-bereich-cologne-204092",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T17:00:56.000Z",
+      "expiresAt": "2026-12-09T18:29:56.814Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_cp712"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_lead-vehicle-cybersecurity-engineer-munich-48123",
+      "title": "Lead Vehicle Cybersecurity Engineer (m/w/d)",
+      "company": "HEERO Motors",
+      "location": "Munich",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Du sicherst die Fahrzeuge, auf die sich Europas Betriebe morgen verlassen. Bei HEERO Motors entwickeln wir die neue Generation elektrischer Nutzfahrzeuge – Designed in Munich, gebaut für Handwerk, Logistik und Kommunen. Unser Fahrgestell ist vernetzt vom ersten Tag an: Telematik, Over-the-Air-Updates, HEERO Cloud. Dami",
+      "requirementsSummary": [
+        "Experience with IT Security"
+      ],
+      "skillsRequired": [
+        "IT Security"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/heero-motors/lead-vehicle-cybersecurity-engineer-munich-48123",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T17:30:45.000Z",
+      "expiresAt": "2026-12-09T18:29:56.813Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_ae5is"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_lead-homologation-engineer-eu-typgenehmigung-munich-240490",
+      "title": "Lead Homologation Engineer (m/w/d) – EU-Typgenehmigung",
+      "company": "HEERO Motors",
+      "location": "Munich",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Du bringst die neue Generation auf Europas Straßen. Bei HEERO Motors entwickeln wir ein neues elektrisches Fahrgestell für den europäischen Markt – Designed in Munich, kompatibel zum europäischen Aufbauherstellernetzwerk, gemacht für Betriebe, die jeden Tag liefern müssen. 2027 steht die Typgenehmigung an. Die Weichen ",
+      "requirementsSummary": [
+        "Experience with Automotive Engineering"
+      ],
+      "skillsRequired": [
+        "Automotive Engineering"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/heero-motors/lead-homologation-engineer-eu-typgenehmigung-munich-240490",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T17:30:45.000Z",
+      "expiresAt": "2026-12-09T18:29:56.813Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_ssfus"
+    },
+    {
+      "sourceId": "src_arbeitnow",
+      "externalId": "abn_software-engineer-ai-development-experience-hanover-226842",
+      "title": "Software Engineer (AI Development Experience)",
+      "company": "Hornetsecurity",
+      "location": "Hanover",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 9,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "We are looking for an Software Engineer (AI Development Experience) – SDLC (m/f/d) to support our organization in automating our Software Development Life Cycle through AI Orchestration across all interfaces. You will work at the intersection of technology, business departments, and organizational transformation. Your ",
+      "requirementsSummary": [
+        "Experience with Software Development"
+      ],
+      "skillsRequired": [
+        "Software Development"
+      ],
+      "applyUrl": "https://www.arbeitnow.com/jobs/companies/hornetsecurity/software-engineer-ai-development-experience-hanover-226842",
+      "sourceName": "Arbeitnow Live Developer Feed",
+      "postedAt": "2026-11-09T17:30:46.000Z",
+      "expiresAt": "2026-12-09T18:29:56.813Z",
+      "lastSeenAt": "2026-11-09T18:29:56.814Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_live_1794248996814_w0ffn"
+    },
+    {
+      "sourceId": "src_direct_board",
+      "externalId": "ext_nashik_hub_04",
+      "title": "Junior .NET Software Engineer",
+      "company": "Datamatics Global Services",
+      "location": "Nashik",
+      "isRemote": false,
+      "minExpYears": 1,
+      "maxExpYears": 3,
+      "minSalaryLpa": 3.6,
+      "maxSalaryLpa": 5.2,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Datamatics Nashik Center is hiring .NET developers to build and test business automation tools. Opportunity to gain experience on enterprise architectures.",
+      "requirementsSummary": [
+        "1-3 years C# and SQL Server experience",
+        "Basic knowledge of frontend JavaScript/HTML5",
+        "Strong aptitude for algorithmic problem solving"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "JavaScript",
+        "HTML5/CSS3"
+      ],
+      "applyUrl": "https://www.datamatics.com/careers/nashik-dotnet-eng",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-04T14:00:03.320Z",
+      "expiresAt": "2026-11-24T13:59:48.817Z",
+      "lastSeenAt": "2026-11-04T14:00:03.320Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_sync_1793800803320_wdac"
+    },
+    {
+      "sourceId": "src_jooble",
+      "externalId": "jbl_neosoft_03",
+      "title": "Full Stack .NET & Angular Developer",
+      "company": "NeoSOFT Technologies",
+      "location": "Mumbai (Dadar / Remote)",
+      "isRemote": true,
+      "minExpYears": 1.5,
+      "maxExpYears": 3,
+      "minSalaryLpa": 4.2,
+      "maxSalaryLpa": 6.5,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "NeoSOFT is looking for an enthusiastic Full Stack Engineer capable of working across Angular and C# Web APIs. Great growth environment with mentorship.",
+      "requirementsSummary": [
+        "1.5+ years developing full stack solutions with Angular and .NET Core",
+        "Familiarity with SQL database schemas",
+        "Self-starter suitable for remote work"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "SQL Server"
+      ],
+      "applyUrl": "https://www.neosofttech.com/careers/fullstack-dotnet-angular",
+      "sourceName": "Jooble Job Aggregator",
+      "postedAt": "2026-11-04T14:00:03.320Z",
+      "expiresAt": "2026-12-09T13:59:48.817Z",
+      "lastSeenAt": "2026-11-04T14:00:03.320Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_sync_1793800803320_jiyt"
+    },
+    {
+      "sourceId": "src_adzuna",
+      "externalId": "adz_infy_02",
+      "title": "ASP.NET Core Web API Developer",
+      "company": "Infosys Limited",
+      "location": "Pune (Hinjawadi)",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 3.5,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 6.8,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Infosys requires a C# .NET Core Engineer to construct high-throughput microservices backed by Microsoft SQL Server for enterprise logistics.",
+      "requirementsSummary": [
+        "2+ years in C# and ASP.NET Core",
+        "Hands-on with SQL Server stored procedures and indexing",
+        "Knowledge of Git version control"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core",
+        "Git & GitHub"
+      ],
+      "applyUrl": "https://career.infosys.com/jobdesc?jobReferenceCode=INF-DOTNET-PUN",
+      "sourceName": "Adzuna India API",
+      "postedAt": "2026-11-04T14:00:03.320Z",
+      "expiresAt": "2026-11-29T13:59:48.817Z",
+      "lastSeenAt": "2026-11-04T14:00:03.320Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_sync_1793800803320_wjzg"
+    },
+    {
+      "sourceId": "src_direct_board",
+      "externalId": "ext_tcs_hyd_01",
+      "title": "Angular Front-End Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Pune / Hybrid",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 4.8,
+      "maxSalaryLpa": 7.2,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "TCS Digital Unit is seeking Angular developers with strong TypeScript, RxJS, and HTML5/CSS3 knowledge to modernize client banking dashboards.",
+      "requirementsSummary": [
+        "2-4 years in Angular 14+",
+        "Strong proficiency in TypeScript and RxJS",
+        "Experience integrating REST APIs"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML5/CSS3",
+        "RESTful Architecture"
+      ],
+      "applyUrl": "https://ibegin.tcs.com/iBegin/jobs/angular-pune-2026",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-04T14:00:03.320Z",
+      "expiresAt": "2026-12-04T13:59:48.817Z",
+      "lastSeenAt": "2026-11-04T14:00:03.320Z",
+      "isLive": true,
+      "isActive": true,
+      "id": "job_sync_1793800803320_uppr"
+    },
+    {
+      "id": "job_001",
+      "sourceId": "src_direct_board",
+      "externalId": "ext_pers_01",
+      "title": "Angular & .NET Full Stack Engineer",
+      "company": "Persistent Systems",
+      "location": "Pune (Hinjawadi)",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 3.5,
+      "minSalaryLpa": 4.5,
+      "maxSalaryLpa": 6.5,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Persistent Systems is seeking an energetic Full Stack Developer with hands-on expertise in Angular 15+, TypeScript, C#, and ASP.NET Core Web API. You will work on an enterprise cloud banking platform, building modern SPAs and scalable microservices backed by SQL Server.",
+      "requirementsSummary": [
+        "1.5 - 3.5 years of hands-on experience in Angular and C# .NET Core",
+        "Strong knowledge of TypeScript, RxJS, and component architecture",
+        "Demonstrated experience with SQL Server database design and stored procedures",
+        "Familiarity with Git and Agile sprint workflows"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core"
+      ],
+      "applyUrl": "https://careers.persistent.com/job/angular-dotnet-pune-ext01",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-04T07:59:48.816Z",
+      "expiresAt": "2026-12-04T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_002",
+      "sourceId": "src_adzuna",
+      "externalId": "adz_0921",
+      "title": "Angular Developer (v14 - v18)",
+      "company": "PubMatic",
+      "location": "Pune",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 7.5,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "PubMatic is looking for an experienced Angular Developer to create fast, data-heavy dashboards for our ad-tech platform. You will implement modular frontend UI components, manage RxJS streams, and consume secure RESTful endpoints.",
+      "requirementsSummary": [
+        "2+ years in Angular, TypeScript, and modern CSS/SCSS",
+        "Experience building reusable components and managing state",
+        "Knowledge of REST APIs and web performance optimization"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML5/CSS3",
+        "RESTful Architecture"
+      ],
+      "applyUrl": "https://pubmatic.com/careers/angular-dev-pune",
+      "sourceName": "Adzuna India API",
+      "postedAt": "2026-11-03T23:59:48.816Z",
+      "expiresAt": "2026-11-29T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_003",
+      "sourceId": "src_jooble",
+      "externalId": "jbl_4412",
+      "title": ".NET Core Backend API Developer",
+      "company": "Accion Labs India",
+      "location": "Mumbai (Airoli) / Hybrid",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5,
+      "maxSalaryLpa": 7,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Accion Labs has an immediate opening for a .NET Backend Developer. The candidate will design and build high-performance Web APIs using C#, ASP.NET Core, and Microsoft SQL Server, with automated unit testing.",
+      "requirementsSummary": [
+        "2 to 4 years of experience with C#, ASP.NET Core Web API",
+        "Expertise in SQL Server, relational schema design, and LINQ",
+        "Knowledge of clean code principles, repository patterns, and Git"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Entity Framework Core",
+        "RESTful Architecture"
+      ],
+      "applyUrl": "https://accionlabs.com/careers/dotnet-core-api-mumbai",
+      "sourceName": "Jooble Job Aggregator",
+      "postedAt": "2026-11-03T15:59:48.816Z",
+      "expiresAt": "2026-11-24T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_004",
+      "sourceId": "src_direct_board",
+      "externalId": "ext_cog_88",
+      "title": "Full Stack .NET & Angular Software Engineer",
+      "company": "Cognizant Technology Solutions",
+      "location": "Pune / Remote",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 5,
+      "minSalaryLpa": 5.5,
+      "maxSalaryLpa": 8,
+      "salaryCurrency": "INR",
+      "jobType": "Remote",
+      "description": "Cognizant is hiring a Full Stack Engineer to support our North American insurance portal. You will be responsible for creating customer-facing Angular interfaces and secure .NET Web API backends backed by enterprise SQL Server.",
+      "requirementsSummary": [
+        "Solid background in Angular, TypeScript, C#, and .NET Core",
+        "Proven ability to build and test end-to-end full stack web modules",
+        "Good communication skills for distributed remote team collaboration"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "Git & GitHub"
+      ],
+      "applyUrl": "https://careers.cognizant.com/job/fullstack-dotnet-angular-remote",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-04T09:59:48.816Z",
+      "expiresAt": "2026-12-14T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_005",
+      "sourceId": "src_jooble",
+      "externalId": "jbl_nashik_01",
+      "title": "Junior to Mid Full Stack Developer (.NET & Angular)",
+      "company": "Winjit Technologies",
+      "location": "Nashik",
+      "isRemote": false,
+      "minExpYears": 1.5,
+      "maxExpYears": 3,
+      "minSalaryLpa": 3.8,
+      "maxSalaryLpa": 5.5,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Winjit Technologies in Nashik is expanding its digital transformation squad. We need an Angular and C# developer to build enterprise IoT dashboards and business workflow applications.",
+      "requirementsSummary": [
+        "1.5 - 3 years of development with Angular and C# .NET",
+        "Local candidate in Nashik or willing to relocate to Nashik",
+        "Proficiency in SQL Server stored procedures and API integration"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "C#",
+        ".NET Web API",
+        "SQL Server"
+      ],
+      "applyUrl": "https://winjit.com/careers/full-stack-nashik",
+      "sourceName": "Jooble Job Aggregator",
+      "postedAt": "2026-11-03T19:59:48.816Z",
+      "expiresAt": "2026-12-02T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_006",
+      "sourceId": "src_direct_board",
+      "externalId": "ext_jalg_it",
+      "title": "Software Developer - Web Applications",
+      "company": "Jain Software & Tech Hub",
+      "location": "Jalgaon",
+      "isRemote": false,
+      "minExpYears": 1,
+      "maxExpYears": 3,
+      "minSalaryLpa": 3.2,
+      "maxSalaryLpa": 4.8,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "Looking for a skilled web developer proficient in JavaScript/TypeScript frameworks (Angular preferred) and backend C#/.NET to maintain ERP modules and client portals in Jalgaon.",
+      "requirementsSummary": [
+        "Experience building web applications with Angular and C#",
+        "Understanding of relational databases and SQL queries",
+        "Based in Jalgaon or nearby region in North Maharashtra"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "JavaScript",
+        "C#",
+        "SQL Server",
+        "HTML5/CSS3"
+      ],
+      "applyUrl": "https://jainsoftware.in/careers/jalgaon-web-dev",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-02T13:59:48.816Z",
+      "expiresAt": "2026-11-19T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_007",
+      "sourceId": "src_adzuna",
+      "externalId": "adz_wipro_09",
+      "title": "C# .NET Backend Microservices Engineer",
+      "company": "Wipro Limited",
+      "location": "Pune (Hinjawadi)",
+      "isRemote": true,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5.2,
+      "maxSalaryLpa": 7.2,
+      "salaryCurrency": "INR",
+      "jobType": "Hybrid",
+      "description": "Wipro is looking for a C# .NET Backend Engineer to join our banking horizontal. You will write clean, well-architected Web APIs, optimize SQL queries on SQL Server, and implement token-based security.",
+      "requirementsSummary": [
+        "2+ years in C# .NET Core and Web API development",
+        "Strong SQL Server querying, indexing, and optimization skills",
+        "Experience with Docker or Azure DevOps is an added advantage"
+      ],
+      "skillsRequired": [
+        "C#",
+        ".NET Web API",
+        "SQL Server",
+        "RESTful Architecture",
+        "Git & GitHub"
+      ],
+      "applyUrl": "https://careers.wipro.com/job/dotnet-engineer-pune",
+      "sourceName": "Adzuna India API",
+      "postedAt": "2026-11-04T01:59:48.816Z",
+      "expiresAt": "2026-12-09T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    },
+    {
+      "id": "job_008",
+      "sourceId": "src_direct_board",
+      "externalId": "ext_lti_31",
+      "title": "Angular UI Engineer",
+      "company": "LTIMindtree",
+      "location": "Mumbai (Powai)",
+      "isRemote": false,
+      "minExpYears": 2,
+      "maxExpYears": 4,
+      "minSalaryLpa": 5.2,
+      "maxSalaryLpa": 7.8,
+      "salaryCurrency": "INR",
+      "jobType": "Full-Time",
+      "description": "LTIMindtree requires a talented Angular developer to craft modern interfaces for a global retail client. You will construct modular Angular components, integrate complex REST services, and optimize client-side bundle size.",
+      "requirementsSummary": [
+        "Strong experience in Angular (v14+) and TypeScript",
+        "Proficiency in CSS, responsive design, and state management",
+        "Knowledge of unit testing using Jasmine/Karma"
+      ],
+      "skillsRequired": [
+        "Angular",
+        "TypeScript",
+        "JavaScript",
+        "HTML5/CSS3",
+        "RESTful Architecture"
+      ],
+      "applyUrl": "https://careers.ltimindtree.com/job/angular-ui-mumbai",
+      "sourceName": "Direct Indian Tech Careers Feed",
+      "postedAt": "2026-11-03T07:59:48.816Z",
+      "expiresAt": "2026-11-26T13:59:48.816Z",
+      "lastSeenAt": "2026-11-04T13:59:48.816Z",
+      "isLive": true,
+      "isActive": true
+    }
+  ],
+  "jobSkills": [
+    {
+      "id": "jsk_1",
+      "jobId": "job_001",
+      "skillName": "Angular",
+      "isRequired": true,
+      "importanceWeight": 1
+    },
+    {
+      "id": "jsk_2",
+      "jobId": "job_001",
+      "skillName": "C#",
+      "isRequired": true,
+      "importanceWeight": 1
+    },
+    {
+      "id": "jsk_3",
+      "jobId": "job_001",
+      "skillName": ".NET Web API",
+      "isRequired": true,
+      "importanceWeight": 1
+    },
+    {
+      "id": "jsk_4",
+      "jobId": "job_001",
+      "skillName": "SQL Server",
+      "isRequired": true,
+      "importanceWeight": 0.9
+    },
+    {
+      "id": "jsk_5",
+      "jobId": "job_001",
+      "skillName": "TypeScript",
+      "isRequired": true,
+      "importanceWeight": 0.9
+    }
+  ],
+  "jobMatches": [
+    {
+      "id": "jm_job_001_prof_huzefa_01",
+      "jobId": "job_001",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-3.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹6.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.791Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_002_prof_huzefa_01",
+      "jobId": "job_002",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "HTML5/CSS3",
+          "RESTful Architecture"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.795Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_003_prof_huzefa_01",
+      "jobId": "job_003",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core",
+          "RESTful Architecture"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.799Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_004_prof_huzefa_01",
+      "jobId": "job_004",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Git & GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹8 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.802Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_005_prof_huzefa_01",
+      "jobId": "job_005",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-3 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹5.5 LPA)",
+        "locationFit": "Direct Match: Nashik",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.806Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_006_prof_huzefa_01",
+      "jobId": "job_006",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 86,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 75,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "JavaScript",
+          "C#",
+          "SQL Server",
+          "HTML5/CSS3"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1-3 yrs)",
+        "salaryFit": "Near target: ₹4.8 LPA vs expected ₹5 LPA",
+        "locationFit": "Direct Match: Jalgaon",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.811Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_007_prof_huzefa_01",
+      "jobId": "job_007",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "RESTful Architecture",
+          "Git & GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7.2 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.815Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_008_prof_huzefa_01",
+      "jobId": "job_008",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "HTML5/CSS3",
+          "RESTful Architecture"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7.8 LPA)",
+        "locationFit": "Direct Match: Mumbai",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.819Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_sync_1793800803320_wdac_prof_huzefa_01",
+      "jobId": "job_sync_1793800803320_wdac",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "JavaScript",
+          "HTML5/CSS3"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1-3 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹5.2 LPA)",
+        "locationFit": "Direct Match: Nashik",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.777Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_sync_1793800803320_jiyt_prof_huzefa_01",
+      "jobId": "job_sync_1793800803320_jiyt",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-3 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹6.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.780Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_sync_1793800803320_wjzg_prof_huzefa_01",
+      "jobId": "job_sync_1793800803320_wjzg",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core",
+          "Git & GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-3.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹6.8 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.784Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_sync_1793800803320_uppr_prof_huzefa_01",
+      "jobId": "job_sync_1793800803320_uppr",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 95,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 50,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "JavaScript",
+          "HTML5/CSS3",
+          "RESTful Architecture"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7.2 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.787Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794248996814_w0ffn_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_w0ffn",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 52,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "MODERATE"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.772Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "MODERATE"
+    },
+    {
+      "id": "jm_job_live_1794248996814_ssfus_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_ssfus",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 43,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Automotive Engineering"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.766Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_ae5is_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_ae5is",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 43,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "IT Security"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.762Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_cp712_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_cp712",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 43,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Management",
+          "Team Leader"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.755Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_2oir3_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_2oir3",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 43,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.750Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_snj2i_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_snj2i",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 49,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.746Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_fmqop_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_fmqop",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 49,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Web Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.739Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_f6njf_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_f6njf",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 49,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.736Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794248996814_ybk7u_prof_huzefa_01",
+      "jobId": "job_live_1794248996814_ybk7u",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 82,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.731Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794248996815_7zl3p_prof_huzefa_01",
+      "jobId": "job_live_1794248996815_7zl3p",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 82,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 70,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.723Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973605_jq3hk_prof_huzefa_01",
+      "jobId": "job_live_1794505973605_jq3hk",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Sales Engineer"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.716Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973605_tiyp5_prof_huzefa_01",
+      "jobId": "job_live_1794505973605_tiyp5",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Internet and software",
+          "professional"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.713Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973605_5r6l4_prof_huzefa_01",
+      "jobId": "job_live_1794505973605_5r6l4",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "System and Network Administration"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.707Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973605_9flrc_prof_huzefa_01",
+      "jobId": "job_live_1794505973605_9flrc",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Power Engineering and Environmental Engineering"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.704Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973606_t95q6_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_t95q6",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 51,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "MODERATE"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.701Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "MODERATE"
+    },
+    {
+      "id": "jm_job_live_1794505973606_8inkk_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_8inkk",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.698Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973606_b5olo_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_b5olo",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 53,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "SAP/ERP Consulting",
+          "Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "MODERATE"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.695Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "MODERATE"
+    },
+    {
+      "id": "jm_job_live_1794505973606_7jzbf_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_7jzbf",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 44,
+      "breakdown": {
+        "skillsScore": 0,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 30,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [],
+        "missingSkills": [
+          "Software Development"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Other Location",
+        "verdict": "LOW"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.687Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "LOW"
+    },
+    {
+      "id": "jm_job_live_1794505973606_xtfig_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_xtfig",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 83,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.683Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973606_ddner_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_ddner",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 92,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.676Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973606_7c3tk_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_7c3tk",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 83,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.670Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973606_9805j_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_9805j",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 83,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.665Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973606_pa1lz_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_pa1lz",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 83,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.648Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794505973606_eipyl_prof_huzefa_01",
+      "jobId": "job_live_1794505973606_eipyl",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 83,
+      "breakdown": {
+        "skillsScore": 80,
+        "experienceScore": 100,
+        "titleScore": 40,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "TypeScript",
+          "JavaScript",
+          "REST APIs",
+          "Git"
+        ],
+        "missingSkills": [
+          "Full Stack"
+        ],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.643Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820709_odj9g_prof_huzefa_01",
+      "jobId": "job_live_1794508820709_odj9g",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Git"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.636Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820709_szo5d_prof_huzefa_01",
+      "jobId": "job_live_1794508820709_szo5d",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "JavaScript",
+          "TypeScript",
+          "RESTful Architecture",
+          "HTML5/CSS3"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-3.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹8 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.633Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820710_r6l7k_prof_huzefa_01",
+      "jobId": "job_live_1794508820710_r6l7k",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "C#",
+          ".NET Web API",
+          "Git & GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹8.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.630Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820710_5qudd_prof_huzefa_01",
+      "jobId": "job_live_1794508820710_5qudd",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.626Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820710_np12j_prof_huzefa_01",
+      "jobId": "job_live_1794508820710_np12j",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "HTML5/CSS3",
+          "RESTful Architecture",
+          "Git & GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹11 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.622Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794508820710_hs5jb_prof_huzefa_01",
+      "jobId": "job_live_1794508820710_hs5jb",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "Entity Framework Core"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.618Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_5evqg_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_5evqg",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Core",
+          "SQL Server",
+          "RESTful Architecture"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-3.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹10.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.615Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_jn3m9_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_jn3m9",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "HTML5",
+          "Git"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9 LPA)",
+        "locationFit": "Direct Match: Mumbai",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.612Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_zxygv_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_zxygv",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          ".NET Web API",
+          "Entity Framework Core",
+          "SQL Server"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-3 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹12 LPA)",
+        "locationFit": "Remote (Fully Supported)",
+        "verdict": "EXCELLENT"
+      },
+      "calculatedAt": "2026-11-12T18:45:29.608Z",
+      "isAiAnalyzed": false,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_76q61_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_76q61",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          "JavaScript",
+          "SQL Server",
+          "GitHub"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (1.5-3 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7.5 LPA)",
+        "locationFit": "Direct Match: Nashik",
+        "verdict": "EXCELLENT",
+        "aiExplanation": "Huzefa Khatik is an exceptional match for the .NET Developer role at Datamatics, as his 2 years of experience perfectly align with the required 1.5–3 years bracket and he possesses 100% of the core required skills (C#, JavaScript, SQL Server, GitHub). Furthermore, his additional expertise in Angular, .NET Web API, and Entity Framework Core exceeds expectations, while his expected CTC of ₹5 LPA falls comfortably within the company's ₹5–7.5 LPA budget. \n\n**Application Tip:** Since the role is strictly on-site in Nashik (Remote: false), highlight your willingness and readiness to relocate to or commute within Nashik right at the top of your cover letter or resume summary to instantly validate your local suitability."
+      },
+      "calculatedAt": "2026-11-12T18:45:29.604Z",
+      "isAiAnalyzed": true,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_o9az7_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_o9az7",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 100,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 100,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "Angular",
+          "TypeScript",
+          "CSS3",
+          "Git"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-3.5 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹9.5 LPA)",
+        "locationFit": "Direct Match: Pune",
+        "verdict": "EXCELLENT",
+        "aiExplanation": "Huzefa Khatik is an exceptional match for the Software Engineer (Angular) role at Zensar Technologies, perfectly meeting the 2-year experience threshold and possessing all required core skills (Angular, TypeScript, CSS3, Git). His broader Full Stack expertise in .NET adds strong backend versatility, bridging the gap toward the upper end of the employer's salary range despite his ₹5 LPA expectation. For his application, Huzefa should emphasize his hands-on project delivery with Angular and TypeScript while highlighting his readiness to work from the Pune office."
+      },
+      "calculatedAt": "2026-11-12T18:45:29.601Z",
+      "isAiAnalyzed": true,
+      "aiVerdict": "EXCELLENT"
+    },
+    {
+      "id": "jm_job_live_1794509129566_d7cbk_prof_huzefa_01",
+      "jobId": "job_live_1794509129566_d7cbk",
+      "profileId": "prof_huzefa_01",
+      "overallScore": 98,
+      "breakdown": {
+        "skillsScore": 100,
+        "experienceScore": 100,
+        "titleScore": 85,
+        "locationScore": 100,
+        "salaryScore": 100,
+        "freshnessScore": 100,
+        "weightsUsed": {
+          "skills": 40,
+          "experience": 20,
+          "title": 15,
+          "location": 10,
+          "salary": 10,
+          "freshness": 5
+        },
+        "matchedSkills": [
+          "C#",
+          ".NET Web API",
+          "SQL Server",
+          "HTML5"
+        ],
+        "missingSkills": [],
+        "experienceFit": "Ideal fit: 2 yrs matches requirement (2-4 yrs)",
+        "salaryFit": "Meets or exceeds expected ₹5 LPA (Up to ₹7 LPA)",
+        "locationFit": "Direct Match: Jalgaon",
+        "verdict": "EXCELLENT",
+        "aiExplanation": "Huzefa Khatik is an excellent match for the System Engineer position at TCS, as his 2 years of experience directly align with the required 2–4 year bracket and his core technical stack (C#, .NET Web API, SQL Server, and HTML5) perfectly covers all stated requirements. Furthermore, his expected CTC of ₹5 LPA falls comfortably within the company's ₹4.5–7 LPA budget, and the job location in Jalgaon matches his preferred region. \n\n**Application Tip:** Emphasize your proficiency in scalable backend development using .NET Web API and database optimization in SQL Server during the resume screening phase to immediately stand out to TCS recruiters."
+      },
+      "calculatedAt": "2026-11-12T18:45:29.598Z",
+      "isAiAnalyzed": true,
+      "aiVerdict": "EXCELLENT"
+    }
+  ],
+  "matchDetails": [],
+  "savedJobs": [
+    {
+      "id": "save_01",
+      "jobId": "job_001",
+      "profileId": "prof_huzefa_01",
+      "savedAt": "2026-11-04T10:59:48.816Z",
+      "notes": "Strong match for my .NET and Angular background at Persistent Hinjawadi.",
+      "priorityTag": "HIGH"
+    },
+    {
+      "id": "save_02",
+      "jobId": "job_004",
+      "profileId": "prof_huzefa_01",
+      "savedAt": "2026-11-04T08:59:48.816Z",
+      "notes": "Remote option available! Salary up to ₹8 LPA.",
+      "priorityTag": "HIGH"
+    }
+  ],
+  "jobApplications": [
+    {
+      "id": "app_01",
+      "jobId": "job_001",
+      "profileId": "prof_huzefa_01",
+      "status": "APPLIED",
+      "appliedDate": "2026-03-01T10:00:00.000Z",
+      "resumeVersionId": "res_primary_01",
+      "followUpDate": "2026-03-08T10:00:00.000Z",
+      "notes": "Submitted application on Persistent portal. Received automated confirmation email.",
+      "interviewRoundsCount": 0,
+      "contactPerson": "HR Campus & Lateral Pune",
+      "history": [
+        {
+          "status": "SAVED",
+          "timestamp": "2026-02-28T14:00:00.000Z",
+          "note": "Bookmarked job from morning scan"
+        },
+        {
+          "status": "APPLIED",
+          "timestamp": "2026-03-01T10:00:00.000Z",
+          "note": "Applied via official portal"
+        }
+      ]
+    },
+    {
+      "id": "app_02",
+      "jobId": "job_003",
+      "profileId": "prof_huzefa_01",
+      "status": "INTERVIEWING",
+      "appliedDate": "2026-02-24T12:00:00.000Z",
+      "resumeVersionId": "res_primary_01",
+      "followUpDate": "2026-03-06T15:00:00.000Z",
+      "notes": "Cleared initial screening with recruiter. Technical round scheduled on C# Web API and SQL query optimization.",
+      "interviewRoundsCount": 1,
+      "contactPerson": "Priya Sharma (Tech Recruiter)",
+      "history": [
+        {
+          "status": "APPLIED",
+          "timestamp": "2026-02-24T12:00:00.000Z",
+          "note": "Applied on Accion portal"
+        },
+        {
+          "status": "INTERVIEWING",
+          "timestamp": "2026-03-02T11:00:00.000Z",
+          "note": "Invited for Technical Round 1"
+        }
+      ]
+    },
+    {
+      "id": "app_1794506027187",
+      "jobId": "job_sync_1793800803320_wdac",
+      "profileId": "prof_huzefa_01",
+      "status": "APPLIED",
+      "appliedDate": "2026-11-12T17:53:47.187Z",
+      "resumeVersionId": "res_primary_01",
+      "followUpDate": null,
+      "notes": "Application status recorded from match modal on 11/12/2026",
+      "interviewRoundsCount": 0,
+      "contactPerson": "",
+      "history": [
+        {
+          "status": "APPLIED",
+          "timestamp": "2026-11-12T17:53:47.187Z",
+          "note": "Application record created"
+        }
+      ]
+    }
+  ],
+  "searchHistory": [
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 32
+      },
+      "resultsCount": 48,
+      "executedAt": "2026-11-12T18:46:07.884Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794509167885"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Angular Developer",
+      "location": "Pune",
+      "filtersJson": {
+        "query": "Angular Developer",
+        "location": "Pune"
+      },
+      "resultsCount": 5,
+      "executedAt": "2026-11-12T18:40:20.743Z",
+      "triggeredBy": "AI_LIVE",
+      "id": "sh_1794508820743"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 20
+      },
+      "resultsCount": 36,
+      "executedAt": "2026-11-12T18:00:03.108Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794506403108"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 20
+      },
+      "resultsCount": 36,
+      "executedAt": "2026-11-12T17:57:22.508Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794506242508"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 12
+      },
+      "resultsCount": 12,
+      "executedAt": "2026-11-09T18:00:00.311Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794247200311"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 12
+      },
+      "resultsCount": 12,
+      "executedAt": "2026-11-09T17:59:53.945Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794247193945"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 12
+      },
+      "resultsCount": 12,
+      "executedAt": "2026-11-09T17:59:52.475Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1794247192475"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "query": "Automated Sync: Angular, .NET & Full Stack",
+      "location": "Pune / Mumbai / Nashik / Jalgaon / Remote",
+      "filtersJson": {
+        "trigger": "MANUAL",
+        "highMatchesCount": 12
+      },
+      "resultsCount": 12,
+      "executedAt": "2026-11-04T14:00:07.909Z",
+      "triggeredBy": "MANUAL",
+      "id": "sh_1793800807909"
+    },
+    {
+      "id": "sh_01",
+      "profileId": "prof_huzefa_01",
+      "query": "Angular .NET Developer",
+      "location": "Pune",
+      "filtersJson": {
+        "minSalary": 4,
+        "experience": 2
+      },
+      "resultsCount": 18,
+      "executedAt": "2026-11-04T10:59:48.816Z",
+      "triggeredBy": "SCHEDULED_MORNING"
+    },
+    {
+      "id": "sh_02",
+      "profileId": "prof_huzefa_01",
+      "query": "Full Stack Developer",
+      "location": "Remote",
+      "filtersJson": {
+        "openToRemote": true
+      },
+      "resultsCount": 14,
+      "executedAt": "2026-11-04T05:59:48.816Z",
+      "triggeredBy": "MANUAL"
+    }
+  ],
+  "aiAnalysisLogs": [
+    {
+      "profileId": "prof_huzefa_01",
+      "provider": "gemini",
+      "promptType": "CAREER_ADVICE",
+      "tokensUsed": 750,
+      "status": "SUCCESS",
+      "responseSnippet": "Career roadmap and upskilling recommendations generated.",
+      "id": "ail_1794510286254",
+      "createdAt": "2026-11-12T19:04:46.254Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794509129566_76q61",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an exceptional match for the .NET Developer role at Datamatics, as his 2 years of experience perfectly align with the required 1.5–3 years brac",
+      "id": "ail_1794509167878",
+      "createdAt": "2026-11-12T18:46:07.878Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794509129566_o9az7",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an exceptional match for the Software Engineer (Angular) role at Zensar Technologies, perfectly meeting the 2-year experience threshold and pos",
+      "id": "ail_1794509159761",
+      "createdAt": "2026-11-12T18:45:59.761Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794509129566_d7cbk",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an excellent match for the System Engineer position at TCS, as his 2 years of experience directly align with the required 2–4 year bracket and ",
+      "id": "ail_1794509151871",
+      "createdAt": "2026-11-12T18:45:51.871Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "provider": "gemini",
+      "promptType": "LIVE_JOB_DISCOVERY",
+      "tokensUsed": 1250,
+      "status": "SUCCESS",
+      "responseSnippet": "Discovered 6 live active vacancies matching \"profile\"",
+      "id": "ail_1794509129564",
+      "createdAt": "2026-11-12T18:45:29.564Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "provider": "gemini",
+      "promptType": "LIVE_JOB_DISCOVERY",
+      "tokensUsed": 1250,
+      "status": "SUCCESS",
+      "responseSnippet": "Discovered 6 live active vacancies matching \"Angular Developer\"",
+      "id": "ail_1794508820707",
+      "createdAt": "2026-11-12T18:40:20.707Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_9805j",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is a strong technical match for this remote role, bringing core overlapping skills in TypeScript, JavaScript, REST APIs, and Git. Although the job",
+      "id": "ail_1794506403102",
+      "createdAt": "2026-11-12T18:00:03.102Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_pa1lz",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an excellent match for the Lead DevOps/Full Stack role at Particle41, as his 2 years of hands-on experience directly align with the core requir",
+      "id": "ail_1794506395986",
+      "createdAt": "2026-11-12T17:59:55.987Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_eipyl",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an excellent match for the Senior Platform Engineer role at Caylent, perfectly aligning with the 2–4.5 years experience requirement and matchin",
+      "id": "ail_1794506389824",
+      "createdAt": "2026-11-12T17:59:49.824Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "provider": "gemini",
+      "promptType": "CAREER_ADVICE",
+      "tokensUsed": 750,
+      "status": "SUCCESS",
+      "responseSnippet": "Career roadmap and upskilling recommendations generated.",
+      "id": "ail_1794506331150",
+      "createdAt": "2026-11-12T17:58:51.150Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_9805j",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Although the system marks this as an \"EXCELLENT\" match due to overlapping tech skills like TypeScript, JavaScript, and REST APIs, this is actually a **mismatch*",
+      "id": "ail_1794506242501",
+      "createdAt": "2026-11-12T17:57:22.501Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_pa1lz",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa Khatik is an exceptionally strong match for this remote role, as his core expertise in TypeScript, JavaScript, REST APIs, and Git directly satisfies Part",
+      "id": "ail_1794506232742",
+      "createdAt": "2026-11-12T17:57:12.742Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_live_1794505973606_eipyl",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 380,
+      "status": "SUCCESS",
+      "responseSnippet": "Huzefa is an excellent match for this remote role as his core expertise in TypeScript, JavaScript, REST APIs, and Git directly aligns with Caylent’s technical r",
+      "id": "ail_1794506225751",
+      "createdAt": "2026-11-12T17:57:05.751Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "provider": "gemini",
+      "promptType": "CHAT",
+      "tokensUsed": 310,
+      "status": "SUCCESS",
+      "responseSnippet": "Hello Huzefa! It's great to connect with you—let's work on getting you that target ₹5 LPA package in Pune, Mumbai, Jalgaon, Nashik, or remotely. To kick things ",
+      "id": "ail_1794505999683",
+      "createdAt": "2026-11-12T17:53:19.683Z"
+    },
+    {
+      "id": "ail_01",
+      "profileId": "prof_huzefa_01",
+      "jobId": "job_001",
+      "provider": "gemini",
+      "promptType": "MATCH_ANALYSIS",
+      "tokensUsed": 420,
+      "status": "SUCCESS",
+      "createdAt": "2026-11-04T11:59:48.816Z",
+      "responseSnippet": "Strong 94% compatibility detected. 100% skill alignment with Angular, TypeScript, C#, .NET Web API, and SQL Server."
+    }
+  ],
+  "notificationLogs": [
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 32 New High Matches for Angular & .NET Roles (98% Top Fit)",
+      "previewText": "High-compatibility roles detected at TCS and Zensar Technologies for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 32,
+      "jobTitles": [
+        "System Engineer - .NET",
+        "Software Engineer (Angular)",
+        ".NET Developer"
+      ],
+      "id": "notif_1794509167882",
+      "sentAt": "2026-11-12T18:46:07.882Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 20 New High Matches for Angular & .NET Roles (83% Top Fit)",
+      "previewText": "High-compatibility roles detected at Caylent and Particle41 for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 20,
+      "jobTitles": [
+        "Senior Platform Engineer",
+        "Lead DevOps Engineer",
+        "Senior QA Engineer"
+      ],
+      "id": "notif_1794506403106",
+      "sentAt": "2026-11-12T18:00:03.106Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 20 New High Matches for Angular & .NET Roles (83% Top Fit)",
+      "previewText": "High-compatibility roles detected at Caylent and Particle41 for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 20,
+      "jobTitles": [
+        "Senior Platform Engineer",
+        "Lead DevOps Engineer",
+        "Senior QA Engineer"
+      ],
+      "id": "notif_1794506242506",
+      "sentAt": "2026-11-12T17:57:22.506Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 12 New High Matches for Angular & .NET Roles (99% Top Fit)",
+      "previewText": "High-compatibility roles detected at Datamatics Global Services and NeoSOFT Technologies for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 12,
+      "jobTitles": [
+        "Junior .NET Software Engineer",
+        "Full Stack .NET & Angular Developer",
+        "ASP.NET Core Web API Developer"
+      ],
+      "id": "notif_1794247200310",
+      "sentAt": "2026-11-09T18:00:00.310Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 12 New High Matches for Angular & .NET Roles (99% Top Fit)",
+      "previewText": "High-compatibility roles detected at Datamatics Global Services and NeoSOFT Technologies for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 12,
+      "jobTitles": [
+        "Junior .NET Software Engineer",
+        "Full Stack .NET & Angular Developer",
+        "ASP.NET Core Web API Developer"
+      ],
+      "id": "notif_1794247193943",
+      "sentAt": "2026-11-09T17:59:53.943Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 12 New High Matches for Angular & .NET Roles (99% Top Fit)",
+      "previewText": "High-compatibility roles detected at Datamatics Global Services and NeoSOFT Technologies for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 12,
+      "jobTitles": [
+        "Junior .NET Software Engineer",
+        "Full Stack .NET & Angular Developer",
+        "ASP.NET Core Web API Developer"
+      ],
+      "id": "notif_1794247192474",
+      "sentAt": "2026-11-09T17:59:52.474Z"
+    },
+    {
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 12 New High Matches for Angular & .NET Roles (100% Top Fit)",
+      "previewText": "High-compatibility roles detected at Datamatics Global Services and NeoSOFT Technologies for your 2 years experience.",
+      "status": "DELIVERED",
+      "matchedJobsCount": 12,
+      "jobTitles": [
+        "Junior .NET Software Engineer",
+        "Full Stack .NET & Angular Developer",
+        "ASP.NET Core Web API Developer"
+      ],
+      "id": "notif_1793800807908",
+      "sentAt": "2026-11-04T14:00:07.908Z"
+    },
+    {
+      "id": "notif_01",
+      "profileId": "prof_huzefa_01",
+      "channel": "EMAIL",
+      "recipient": "huzefakhatik8586@gmail.com",
+      "subject": "🎯 2 New Excellent Matches (85%+) for your Profile today",
+      "previewText": "Persistent Systems and Cognizant are hiring Full Stack .NET & Angular Developers in Pune and Remote with CTC up to ₹8 LPA.",
+      "sentAt": "2026-11-04T08:59:48.816Z",
+      "status": "DELIVERED",
+      "matchedJobsCount": 2,
+      "jobTitles": [
+        "Angular & .NET Full Stack Engineer",
+        "Full Stack .NET & Angular Software Engineer"
+      ]
+    }
+  ],
+  "searchConfigurations": [
+    {
+      "id": "sc_01",
+      "profileId": "prof_huzefa_01",
+      "morningCronTime": "08:00",
+      "eveningCronTime": "18:00",
+      "isAutoSearchEnabled": true,
+      "minMatchScoreToNotify": 75,
+      "emailNotificationsEnabled": true,
+      "notificationEmail": "huzefakhatik8586@gmail.com",
+      "weightsConfig": {
+        "skills": 40,
+        "experience": 20,
+        "title": 15,
+        "location": 10,
+        "salary": 10,
+        "freshness": 5
+      }
+    }
+  ],
+  "settings": {
+    "aiProvider": "gemini",
+    "geminiModel": "gemini-3.8-flash",
+    "openAiModel": "gpt-4o-mini",
+    "adzunaAppId": "adz_in_demo",
+    "adzunaAppKey": "adz_in_key_sec",
+    "joobleApiKey": "jbl_in_key_sec",
+    "hasGeminiKey": false,
+    "hasOpenAiKey": false
+  }
+}
